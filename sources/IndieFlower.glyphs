@@ -392,7 +392,7 @@ unicode = 00C2;
 {
 color = 9;
 glyphname = Acircumflexacute;
-lastChange = "2016-09-01 14:06:16 +0000";
+lastChange = "2016-09-01 14:12:57 +0000";
 layers = (
 {
 components = (
@@ -400,12 +400,8 @@ components = (
 name = A;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 77, 239}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 176, 516}";
+name = circumflexcomb_acutecomb;
+transform = "{1, 0, 0, 1, 1, 239}";
 }
 );
 layerId = UUID0;
@@ -443,7 +439,7 @@ unicode = 1EAC;
 {
 color = 9;
 glyphname = Acircumflexgrave;
-lastChange = "2016-09-01 14:06:16 +0000";
+lastChange = "2016-09-01 14:12:57 +0000";
 layers = (
 {
 components = (
@@ -451,12 +447,8 @@ components = (
 name = A;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 77, 239}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 175, 516}";
+name = circumflexcomb_gravecomb;
+transform = "{1, 0, 0, 1, 2, 239}";
 }
 );
 layerId = UUID0;
@@ -468,7 +460,7 @@ unicode = 1EA6;
 {
 color = 9;
 glyphname = Acircumflexhookabove;
-lastChange = "2016-09-01 14:06:16 +0000";
+lastChange = "2016-09-01 14:12:57 +0000";
 layers = (
 {
 components = (
@@ -476,12 +468,8 @@ components = (
 name = A;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 77, 239}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, -48, 516}";
+name = circumflexcomb_hookabovecomb;
+transform = "{1, 0, 0, 1, 13, 239}";
 }
 );
 layerId = UUID0;
@@ -493,7 +481,7 @@ unicode = 1EA8;
 {
 color = 9;
 glyphname = Acircumflextilde;
-lastChange = "2016-09-01 14:06:16 +0000";
+lastChange = "2016-09-01 14:12:57 +0000";
 layers = (
 {
 components = (
@@ -501,12 +489,8 @@ components = (
 name = A;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 77, 239}";
-},
-{
-name = tildecomb;
-transform = "{1, 0, 0, 1, 66, 516}";
+name = circumflexcomb_tildecomb;
+transform = "{1, 0, 0, 1, 10, 239}";
 }
 );
 layerId = UUID0;
@@ -549,7 +533,7 @@ unicode = 00C4;
 {
 color = 9;
 glyphname = Adotbelow;
-lastChange = "2016-09-01 14:06:16 +0000";
+lastChange = "2016-09-01 14:12:57 +0000";
 layers = (
 {
 components = (
